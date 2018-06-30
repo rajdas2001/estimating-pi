@@ -1,2 +1,2 @@
 # estimating-pi
-This is a simple program that estimates the value of pi using Nilakantha's method. 
+This is just a simple program to calculate the value of Pi(π) using Nilakantha's method.
